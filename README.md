@@ -99,7 +99,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
 * [AmuletPlatform](https://amuletplatform.com/data/) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
 * [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
-
+* [Coinpedia](https://coinpedia.org/) - Fintech and crypto News aggregator platform with all updates and blogs about cryptocurrency, fintech, Defi and much more.
 
 # Price Trackers
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
